@@ -1,4 +1,4 @@
-We will explore portfolio returns and risk using historical price data for AMZN, IGLB, and SPY from 2014 to 2019.
+Exploring portfolio returns and risk using historical price data for AMZN, IGLB, and SPY from 2014 to 2019.
 
 Tasks include:
 *   Normalize IGLB's 'Close' and 'Adj Close' prices to compare their performance.
